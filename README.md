@@ -316,10 +316,8 @@ Day 30: 전체 복습
 
 #### 📚 보충 자료
 - [📄 자주 헷갈리는 단어](resources/frequently-confused.md) - 비슷한 단어 완벽 비교
-- [📄 카테고리별 단어장](resources/word-list-all.md) - 주제별 단어 모음
-- [📄 비즈니스 필수 단어](resources/category-business.md) - 비즈니스 특화 단어
-- [📄 암기 팁 모음](MEMORIZATION-TIPS.md) - 효과적인 암기법
-- [📄 학습 가이드](STUDY-GUIDE.md) - 상세 학습 전략
+- [📄 암기 팁 모음](resources/memorization-tips.md) - 효과적인 암기법
+- [📄 학습 가이드](resources/study-guide.md) - 상세 학습 전략
 
 #### 🎯 토익 필수 패턴
 

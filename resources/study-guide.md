@@ -868,6 +868,6 @@ Day 30 이후 (주말)
 
 ---
 
-[⬅️ 메인으로 돌아가기](README.md) | [📝 암기 노하우 보기](MEMORIZATION-TIPS.md)
+[⬅️ 메인으로 돌아가기](../README.md) | [📝 암기 노하우 보기](memorization-tips.md)
 
 </div>
