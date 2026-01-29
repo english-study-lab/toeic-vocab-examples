@@ -1849,6 +1849,6 @@ among many items
 
 ---
 
-[⬅️ 메인으로 돌아가기](README.md) | [📝 암기 노하우](MEMORIZATION-TIPS.md) | [📖 학습 가이드](STUDY-GUIDE.md)
+[⬅️ 메인으로 돌아가기](../README.md) | [📝 암기 노하우](memorization-tips.md) | [📖 학습 가이드](study-guide.md)
 
 </div>
