@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Vocabulary](https://img.shields.io/badge/Words-5280+-blue?style=for-the-badge)
+![Vocabulary](https://img.shields.io/badge/Words-4230+-blue?style=for-the-badge)
 ![Levels](https://img.shields.io/badge/Levels-3-green?style=for-the-badge)
 ![Days](https://img.shields.io/badge/Days-90-red?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Korean-blueviolet?style=for-the-badge)
@@ -231,8 +231,8 @@ graph TD
 ### 🟥 900 Level (900점+ 목표)
 
 > **대상**: 800 Level 완료자, 토익 850점+  
-> **목표**: 고급 단어 2,040개 완벽 습득  
-> **기간**: 30일 (하루 68단어)
+> **목표**: 고급 단어 990개 완벽 습득  
+> **기간**: 30일 (하루 33단어)
 
 <details>
 <summary><b>📋 900 커리큘럼 (30일) - 클릭하여 펼치기</b></summary>
@@ -240,50 +240,50 @@ graph TD
 #### Week 1: 업무 고급 (Day 1-7)
 | Day | 주제 | 단어 수 | 바로 가기 |
 |:---:|-----|:------:|---------|
-| 1 | 사무실 | 68 | [📝 Day 1](vocabulary/advanced-900/day-01-900.md) |
-| 2 | 서류 업무 | 68 | [📝 Day 2](vocabulary/advanced-900/day-02-900.md) |
-| 3 | 고용 | 68 | [📝 Day 3](vocabulary/advanced-900/day-03-900.md) |
-| 4 | 급여·복리후생 | 68 | [📝 Day 4](vocabulary/advanced-900/day-04-900.md) |
-| 5 | 사무용품 | 68 | [📝 Day 5](vocabulary/advanced-900/day-05-900.md) |
-| 6 | 경영 | 68 | [📝 Day 6](vocabulary/advanced-900/day-06-900.md) |
-| 7 | 회의 | 68 | [📝 Day 7](vocabulary/advanced-900/day-07-900.md) |
+| 1 | 사무실 | 33 | [📝 Day 1](vocabulary/advanced-900/day-01-900.md) |
+| 2 | 서류 업무 | 33 | [📝 Day 2](vocabulary/advanced-900/day-02-900.md) |
+| 3 | 고용 | 33 | [📝 Day 3](vocabulary/advanced-900/day-03-900.md) |
+| 4 | 급여·복리후생 | 33 | [📝 Day 4](vocabulary/advanced-900/day-04-900.md) |
+| 5 | 사무용품 | 33 | [📝 Day 5](vocabulary/advanced-900/day-05-900.md) |
+| 6 | 경영 | 33 | [📝 Day 6](vocabulary/advanced-900/day-06-900.md) |
+| 7 | 회의 | 33 | [📝 Day 7](vocabulary/advanced-900/day-07-900.md) |
 
 #### Week 2: 전문 비즈니스 (Day 8-14)
 | Day | 주제 | 단어 수 | 바로 가기 |
 |:---:|-----|:------:|---------|
-| 8 | 계약 | 68 | [📝 Day 8](vocabulary/advanced-900/day-08-900.md) |
-| 9 | 마케팅 | 68 | [📝 Day 9](vocabulary/advanced-900/day-09-900.md) |
-| 10 | 광고 | 68 | [📝 Day 10](vocabulary/advanced-900/day-10-900.md) |
-| 11 | 사업 | 68 | [📝 Day 11](vocabulary/advanced-900/day-11-900.md) |
-| 12 | 제조 | 68 | [📝 Day 12](vocabulary/advanced-900/day-12-900.md) |
-| 13 | 품질 관리 | 68 | [📝 Day 13](vocabulary/advanced-900/day-13-900.md) |
-| 14 | 구매 | 68 | [📝 Day 14](vocabulary/advanced-900/day-14-900.md) |
+| 8 | 계약 | 34 | [📝 Day 8](vocabulary/advanced-900/day-08-900.md) |
+| 9 | 마케팅 | 33 | [📝 Day 9](vocabulary/advanced-900/day-09-900.md) |
+| 10 | 광고 | 33 | [📝 Day 10](vocabulary/advanced-900/day-10-900.md) |
+| 11 | 사업 | 33 | [📝 Day 11](vocabulary/advanced-900/day-11-900.md) |
+| 12 | 제조 | 33 | [📝 Day 12](vocabulary/advanced-900/day-12-900.md) |
+| 13 | 품질 관리 | 33 | [📝 Day 13](vocabulary/advanced-900/day-13-900.md) |
+| 14 | 구매 | 33 | [📝 Day 14](vocabulary/advanced-900/day-14-900.md) |
 
 #### Week 3: 국제 무역 & 금융 (Day 15-21)
 | Day | 주제 | 단어 수 | 바로 가기 |
 |:---:|-----|:------:|---------|
-| 15 | 주문·배송 | 68 | [📝 Day 15](vocabulary/advanced-900/day-15-900.md) |
-| 16 | 상거래 | 68 | [📝 Day 16](vocabulary/advanced-900/day-16-900.md) |
-| 17 | 무역·수출입 | 68 | [📝 Day 17](vocabulary/advanced-900/day-17-900.md) |
-| 18 | 숙박·식당 | 68 | [📝 Day 18](vocabulary/advanced-900/day-18-900.md) |
-| 19 | 수익 | 68 | [📝 Day 19](vocabulary/advanced-900/day-19-900.md) |
-| 20 | 회계 | 68 | [📝 Day 20](vocabulary/advanced-900/day-20-900.md) |
-| 21 | 회사동향 | 68 | [📝 Day 21](vocabulary/advanced-900/day-21-900.md) |
+| 15 | 주문·배송 | 34 | [📝 Day 15](vocabulary/advanced-900/day-15-900.md) |
+| 16 | 상거래 | 32 | [📝 Day 16](vocabulary/advanced-900/day-16-900.md) |
+| 17 | 무역·수출입 | 35 | [📝 Day 17](vocabulary/advanced-900/day-17-900.md) |
+| 18 | 숙박·식당 | 32 | [📝 Day 18](vocabulary/advanced-900/day-18-900.md) |
+| 19 | 수익 | 35 | [📝 Day 19](vocabulary/advanced-900/day-19-900.md) |
+| 20 | 회계 | 32 | [📝 Day 20](vocabulary/advanced-900/day-20-900.md) |
+| 21 | 회사동향 | 33 | [📝 Day 21](vocabulary/advanced-900/day-21-900.md) |
 
 #### Week 4: 고급 표현 & 전문 분야 (Day 22-30)
 | Day | 주제 | 단어 수 | 바로 가기 |
 |:---:|-----|:------:|---------|
-| 22 | 미팅 | 68 | [📝 Day 22](vocabulary/advanced-900/day-22-900.md) |
-| 23 | 사원 복지 | 68 | [📝 Day 23](vocabulary/advanced-900/day-23-900.md) |
-| 24 | 인사이동 | 69 | [📝 Day 24](vocabulary/advanced-900/day-24-900.md) |
-| 25 | 교통 | 68 | [📝 Day 25](vocabulary/advanced-900/day-25-900.md) |
-| 26 | 은행 | 67 | [📝 Day 26](vocabulary/advanced-900/day-26-900.md) |
-| 27 | 투자 | 69 | [📝 Day 27](vocabulary/advanced-900/day-27-900.md) |
-| 28 | 건물·주택 | 68 | [📝 Day 28](vocabulary/advanced-900/day-28-900.md) |
-| 29 | 환경 | 68 | [📝 Day 29](vocabulary/advanced-900/day-29-900.md) |
-| 30 | 건강 | 68 | [📝 Day 30](vocabulary/advanced-900/day-30-900.md) |
+| 22 | 미팅 | 33 | [📝 Day 22](vocabulary/advanced-900/day-22-900.md) |
+| 23 | 사원 복지 | 34 | [📝 Day 23](vocabulary/advanced-900/day-23-900.md) |
+| 24 | 인사이동 | 31 | [📝 Day 24](vocabulary/advanced-900/day-24-900.md) |
+| 25 | 교통 | 35 | [📝 Day 25](vocabulary/advanced-900/day-25-900.md) |
+| 26 | 은행 | 34 | [📝 Day 26](vocabulary/advanced-900/day-26-900.md) |
+| 27 | 투자 | 33 | [📝 Day 27](vocabulary/advanced-900/day-27-900.md) |
+| 28 | 건물·주택 | 30 | [📝 Day 28](vocabulary/advanced-900/day-28-900.md) |
+| 29 | 환경 | 32 | [📝 Day 29](vocabulary/advanced-900/day-29-900.md) |
+| 30 | 건강 | 32 | [📝 Day 30](vocabulary/advanced-900/day-30-900.md) |
 
-**✅ 총 2,040 단어 | 📖 6,120 예문 | ⏱️ 30일 완성**
+**✅ 총 990 단어 | 📖 2,970 예문 | ⏱️ 30일 완성**
 
 </details>
 
@@ -437,8 +437,8 @@ on + 표면 (on the desk)
 |:-----:|:------:|:------:|:--------:|:------:|
 | **BASIC** | 1,200 | 3,600 | 30일 | ⭐⭐ |
 | **800** | 2,040 | 6,120 | 30일 | ⭐⭐⭐ |
-| **900** | 2,040 | 6,120 | 30일 | ⭐⭐⭐⭐⭐ |
-| **합계** | **5,280** | **15,840** | **90일** | - |
+| **900** | 990 | 2,970 | 30일 | ⭐⭐⭐⭐⭐ |
+| **합계** | **4,230** | **12,690** | **90일** | - |
 
 ### 📈 예상 학습 성과
 
