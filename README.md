@@ -4,9 +4,9 @@
 
 <div align="center">
 
-![Vocabulary](https://img.shields.io/badge/Words-4230+-blue?style=for-the-badge)
-![Levels](https://img.shields.io/badge/Levels-3-green?style=for-the-badge)
-![Days](https://img.shields.io/badge/Days-90-red?style=for-the-badge)
+![Vocabulary](https://img.shields.io/badge/Words-4,350+-blue?style=for-the-badge)
+![Levels](https://img.shields.io/badge/Levels-4-green?style=for-the-badge)
+![Days](https://img.shields.io/badge/Days-96-red?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Korean-blueviolet?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
