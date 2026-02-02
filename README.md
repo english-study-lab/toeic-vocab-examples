@@ -585,7 +585,7 @@ toeic-vocab-examples/
 - **이슈**: [GitHub Issues](https://github.com/e9ua1/toeic-vocab-examples/issues)
 
 ### 🌟 도움이 되셨나요?
-- ⭐ **Star**를 눌러주시면 큰 힘이 됩니다
+- ⭐ **Star**를 눌러주시면 큰 힘이 됩니다!
 - 📢 주변에 **공유**해주세요!
 - 💬 **피드백**을 남겨주세요!
 
