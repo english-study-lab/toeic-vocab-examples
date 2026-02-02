@@ -116,7 +116,7 @@ graph TD
 > **목표**: 토익 기본 단어 1,200개 완벽 습득  
 > **기간**: 30일 (하루 40단어)
 
-<details open>
+<details>
 <summary><b>📋 BASIC 커리큘럼 (30일)</b></summary>
 
 #### Week 1: 업무 기초 (Day 1-7)
