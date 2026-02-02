@@ -453,24 +453,19 @@ BASIC 완료 → 토익 700점 달성 가능
 ## 🗂️ 프로젝트 구조
 
 ```
-toeic-vocabulary-master/
-├── 📄 README.md                          # 👈 지금 보고 있는 문서
-├── 📄 LICENSE                            # MIT 라이선스
-├── 📁 basic/                             # 🟦 BASIC Level (30일)
-│   ├── day-01.md ... day-30.md          # 30개 파일
-│   └── README.md                         # BASIC 가이드
+toeic-vocab-examples/
+├── 📄 README.md                                   # 👈 지금 보고 있는 문서
+├── 📄 LICENSE                                     # MIT 라이선스
+├── 📁 basic/                                      # 🟦 BASIC Level (30일)
+│   └── day-01.md ... day-30.md                    # 30개 파일
 ├── 📁 advanced-800/                               # 🟨 800 Level (30일)
-│   ├── day-01.md ... day-30.md          # 30개 파일
-│   └── README.md                         # 800 가이드
+│   └── day-01.md ... day-30.md                    # 30개 파일
 ├── 📁 advanced-900/                               # 🟥 900 Level (30일)
-│   ├── day-01.md ... day-30.md          # 30개 파일
-│   └── README.md                         # 900 가이드
-└── 📁 docs/                              # 📚 추가 학습 자료
-    ├── frequently-confused.md            # 헷갈리는 단어
-    ├── word-list-all.md                  # 전체 단어 목록
-    ├── category-business.md              # 카테고리별 단어
-    ├── MEMORIZATION-TIPS.md              # 암기 팁
-    └── STUDY-GUIDE.md                    # 학습 가이드
+│   └── day-01.md ... day-30.md                    # 30개 파일
+└── 📁 docs/                                       # 📚 추가 학습 자료
+    ├── frequently-confused.md                     # 헷갈리는 단어
+    ├── memorization-tips.md                       # 암기 팁
+    └── study-guide.md                             # 학습 가이드
 ```
 
 ---
@@ -587,7 +582,7 @@ toeic-vocabulary-master/
 
 ### 📧 연락처
 - **이메일**: ark182818@gmail.com
-- **이슈**: [GitHub Issues](https://github.com/yourusername/toeic-vocabulary-master/issues)
+- **이슈**: [GitHub Issues](https://github.com/e9ua1/toeic-vocabulary-master/issues)
 
 ### 🌟 도움이 되셨나요?
 - ⭐ **Star**를 눌러주시면 큰 힘이 됩니다!
@@ -606,9 +601,9 @@ toeic-vocabulary-master/
 
 ### 📚 학습 시작하기
 
-[![BASIC](https://img.shields.io/badge/🟦_BASIC-Start-blue?style=for-the-badge)](basic/day-01.md)
-[![800](https://img.shields.io/badge/🟨_800-Start-yellow?style=for-the-badge)](800/day-01.md)
-[![900](https://img.shields.io/badge/🟥_900-Start-red?style=for-the-badge)](900/day-01.md)
+[![BASIC](https://img.shields.io/badge/🟦_BASIC-Start-blue?style=for-the-badge)](vocabulary/basic/day-01.md)
+[![800](https://img.shields.io/badge/🟨_800-Start-yellow?style=for-the-badge)](vocabulary/advanced-800/day-01-800.md)
+[![900](https://img.shields.io/badge/🟥_900-Start-red?style=for-the-badge)](vocabulary/advanced-900/day-01-900.md)
 
 ---
 
