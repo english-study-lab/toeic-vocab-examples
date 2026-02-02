@@ -293,6 +293,30 @@ graph TD
 
 ---
 
+### 🟩 Idioms Level
+
+> **대상**: 토익 전 레벨 학습자, 실전 표현 강화 필요자  
+> **목표**: 비즈니스 필수 이디엄 및 관용구 120개 마스터  
+> **기간**: 6일 (하루 20단어)
+
+<details>
+<summary><b>📋 Idioms 커리큘럼 (6일) - 클릭하여 펼치기</b></summary>
+
+| Day | 주제 | 단어 수 | 바로 가기 |
+|:---:|-----|:------:|---------|
+| 1 | 필수 비즈니스 이디엄 I | 20 | [📝 Day 1](vocabulary/idioms/day-01-idioms.md) |
+| 2 | 필수 비즈니스 이디엄 II | 20 | [📝 Day 2](vocabulary/idioms/day-02-idioms.md) |
+| 3 | 필수 비즈니스 이디엄 III | 20 | [📝 Day 3](vocabulary/idioms/day-03-idioms.md) |
+| 4 | 필수 비즈니스 이디엄 IV | 20 | [📝 Day 4](vocabulary/idioms/day-04-idioms.md) |
+| 5 | 필수 비즈니스 이디엄 V | 20 | [📝 Day 5](vocabulary/idioms/day-05-idioms.md) |
+| 6 | 필수 비즈니스 이디엄 VI | 20 | [📝 Day 6](vocabulary/idioms/day-06-idioms.md) |
+
+**✅ 총 120 단어 | 📖 360 예문 | ⏱️ 6일 완성**
+
+</details>
+
+---
+
 ## 🎯 학습 전략
 
 ### 📅 일일 학습 플랜
@@ -442,7 +466,8 @@ on + 표면 (on the desk)
 | **BASIC** | 1,200 | 3,600 | 30일 | ⭐⭐ |
 | **800** | 2,040 | 6,120 | 30일 | ⭐⭐⭐ |
 | **900** | 990 | 2,970 | 30일 | ⭐⭐⭐⭐⭐ |
-| **합계** | **4,230** | **12,690** | **90일** | - |
+| **Idioms** | 120 | 360 | 6일 | ⭐⭐⭐ |
+| **합계** | **4,350** | **13,050** | **96일** | - |
 
 ### 📈 예상 학습 성과
 
@@ -466,6 +491,8 @@ toeic-vocab-examples/
 │   └── day-01.md ... day-30.md                    # 30개 파일
 ├── 📁 advanced-900/                               # 🟥 900 Level (30일)
 │   └── day-01.md ... day-30.md                    # 30개 파일
+├── 📁 idioms/                                     # 🟩 Idioms Level (6일)
+│   └── day-01-idioms.md ... day-06-idioms.md      # 6개 파일
 └── 📁 docs/                                       # 📚 추가 학습 자료
     ├── frequently-confused.md                     # 헷갈리는 단어
     ├── memorization-tips.md                       # 암기 팁
@@ -608,6 +635,7 @@ toeic-vocab-examples/
 [![BASIC](https://img.shields.io/badge/🟦_BASIC-Start-blue?style=for-the-badge)](vocabulary/basic/day-01.md)
 [![800](https://img.shields.io/badge/🟨_800-Start-yellow?style=for-the-badge)](vocabulary/advanced-800/day-01-800.md)
 [![900](https://img.shields.io/badge/🟥_900-Start-red?style=for-the-badge)](vocabulary/advanced-900/day-01-900.md)
+[![Idioms](https://img.shields.io/badge/🟩_Idioms-Start-green?style=for-the-badge)](vocabulary/idioms/day-01-idioms.md)
 
 ---
 
