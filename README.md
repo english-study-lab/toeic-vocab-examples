@@ -582,7 +582,7 @@ toeic-vocab-examples/
 
 ### 📧 연락처
 - **이메일**: ark182818@gmail.com
-- **이슈**: [GitHub Issues](https://github.com/e9ua1/toeic-vocab-examples/issues)
+- **이슈**: [GitHub Issues](https://github.com/english-study-lab/toeic-vocab-examples/issues)
 
 ### 🌟 도움이 되셨나요?
 - ⭐ **Star**를 눌러주시면 큰 힘이 됩니다!
